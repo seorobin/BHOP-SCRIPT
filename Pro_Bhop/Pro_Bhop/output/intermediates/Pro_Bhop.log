@@ -1,0 +1,17 @@
+﻿  main.cpp
+H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(23,28): error C2039: 'process': is not a member of 'Memory'
+  (compiling source file 'cheat/main.cpp')
+      H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(5,7):
+      see declaration of 'Memory'
+      H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(21,5):
+      This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+  
+  memory.cpp
+H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(23,28): error C2039: 'process': is not a member of 'Memory'
+  (compiling source file 'cheat/memory.cpp')
+      H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(5,7):
+      see declaration of 'Memory'
+      H:\code\cpp Projects\Pro_Bhop\Pro_Bhop\cheat\memory.h(21,5):
+      This diagnostic occurred in the compiler generated function 'T Memory::Read(uintptr_t)'
+  
+  Generating Code...
